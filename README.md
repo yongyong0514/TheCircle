@@ -4,7 +4,7 @@ reporting date 03.01.21
 
 &nbsp;
 
-![CIRCLE](circle/web/psd/circle.png)
+![CIRCLE](Circle/web/psd/circle.png)
 
 ### 중소기업을 위한 다양한 기능을 지원하는 그룹웨어 개발
 ### Development of ERP (enterprise resource planning) software that support small business
