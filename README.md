@@ -11,6 +11,12 @@ reporting date 03.01.21
 
 &nbsp;
 
+## 개발환경 Environment
+* JAVA, JSP, JavaScript, jQuery, Json, Xml, Sql, HTML5, CSS, Ajax
+* Spring Framework, Oracle, MyBatis, Maven, Tomcat
+
+&nbsp;
+
 ## 링크 Link
 ### Notion Development Log https://www.notion.so/yongyong0514/Project_Circle-051afd18302a4608b01942588a3eec1f
 
@@ -19,13 +25,7 @@ reporting date 03.01.21
 &nbsp;
 
 ## 시연 영상 YouTube Clip
-* YouTube Link
 [![CIRCLE](https://img.youtube.com/vi/bitvKWigf6o/0.jpg)](https://www.youtube.com/watch?v=bitvKWigf6o&feature=emb_title)
-&nbsp;
-
-## 개발환경 Environment
-* JAVA, JSP, JavaScript, jQuery, Json, Xml, Sql, HTML5, CSS, Ajax
-* Spring Framework, Oracle, MyBatis, Maven, Tomcat
 
 &nbsp;
 
