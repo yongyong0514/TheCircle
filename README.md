@@ -20,7 +20,7 @@ reporting date 03.01.21
 
 ## 시연 영상 YouTube Clip
 * YouTube Link
-
+[![CIRCLE](https://img.youtube.com/vi/bitvKWigf6o/0.jpg)](https://www.youtube.com/watch?v=bitvKWigf6o&feature=emb_title)
 &nbsp;
 
 ## 개발환경 Environment
