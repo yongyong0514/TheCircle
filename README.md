@@ -49,3 +49,12 @@ reporting date 03.01.21
 
 ## DB 디자인 DataBase Design
 ![CIRCLEDB](/web/psd/circledb.png)
+
+## 담당역할 Main Responsibilities in the Project
+형상관리 - GitHub를 이용해 형상관리를 수행 및 전자결재를 구현했습니다.
+* Figma를 활용한 프로젝트 UI 설계 및 디자인
+* 전자결재 CRUD 구현
+* 문서관리 CRUD 구현
+
+
+
