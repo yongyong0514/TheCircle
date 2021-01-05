@@ -52,12 +52,16 @@ reporting date 03.01.21
 
 ## 담당역할 및 기여도 Main Responsibilities in the Project
 형상관리 - GitHub를 이용해 전체 프로젝트 형상관리를 수행했습니다.
+Responsible for software configuration management by using GitHub, main developer for electronic document approval system
 
 * Figma를 활용한 전체 프로젝트 UI 설계 및 디자인
+Project User Interface (UI) Design by using Figma
 
 * 전자결재 DB 및 UI 설계, CRUD 구현
+Development of CRUD for electronic document approval system and UI
 
 * 문서관리 DB 및 설계, CRUD 구현
+Development of CRUD for document manager approval system and UI
 
 &nbsp;
 
