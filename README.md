@@ -12,8 +12,15 @@ reporting date 03.01.21
 &nbsp;
 
 ## 개발환경 Environment
-* JAVA, JSP, JavaScript, jQuery, Json, Xml, Sql, HTML5, CSS, Ajax
-* Spring Framework, Oracle, MyBatis, Maven, Tomcat
+* JAVA 1.8
+* Eclipse Oxygen 3
+* Spring Framework 5.2.9
+* Apache-Maven 3.6.3
+* Oracle SQL Developer 18.3.0.277
+* Apache-Tomcat 9.0
+* JSP, JavaScript, jQuery, Json, Xml, Sql, HTML5, CSS, Ajax
+* MyBatis
+* DATAWARE DA#5
 
 &nbsp;
 
