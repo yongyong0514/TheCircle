@@ -25,7 +25,7 @@ reporting date 03.01.21
 &nbsp;
 
 ## 링크 Link
-### Notion Development Log https://www.notion.so/yongyong0514/Project_Circle-051afd18302a4608b01942588a3eec1f
+### Notion Development Log https://www.notion.so/yongyong0514/Circle-a0a76cb0963f450fb63fb97608456a80
 
 ### Figma UI https://www.figma.com/file/B1enCtQkGGS0FucyEQQV7e/Circle?node-id=0%3A1
 
